@@ -1,0 +1,2 @@
+// Resource 1 is the app icon (loaded with MAKEINTRESOURCE(1)); Explorer uses the first icon group too.
+1 ICON "..\\assets\\calendar.ico"

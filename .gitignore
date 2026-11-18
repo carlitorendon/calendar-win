@@ -1,0 +1,19 @@
+# Build output
+build/
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.exp
+*.lib
+*.res
+
+# Visual Studio / VS Code
+.vs/
+*.user
+*.suo
+.vscode/
+
+# OS
+Thumbs.db
+desktop.ini
